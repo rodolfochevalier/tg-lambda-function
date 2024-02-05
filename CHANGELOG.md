@@ -2,6 +2,13 @@
 
 
 
+## v0.0.2 (2024-02-05)
+
+### Unknown
+
+* Sample v5 ([`0e0e041`](https://github.com/rodolfochevalier/tg-mod-sqs-triggered-lambda-function/commit/0e0e041b0ef27b5684216cdab0aa94550b266b2f))
+
+
 ## v0.0.1 (2024-02-05)
 
 ### Unknown
