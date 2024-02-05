@@ -8,8 +8,8 @@ variable "aws_account_id" {
   type        = string
 }
 
-variable "common_lambda_layer_arn" {
-  description = "Common Lambda ayer ARN"
+variable "layer_name" {
+  description = "Common Lambda layer name"
   type        = string
 }
 
